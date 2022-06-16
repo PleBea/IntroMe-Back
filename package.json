@@ -1,0 +1,22 @@
+{
+  "name": "introme-back",
+  "version": "0.0.1",
+  "description": "IntroMe Backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PleBea/IntroMe-Back.git"
+  },
+  "author": "plebea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PleBea/IntroMe-Back/issues"
+  },
+  "homepage": "https://github.com/PleBea/IntroMe-Back#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
